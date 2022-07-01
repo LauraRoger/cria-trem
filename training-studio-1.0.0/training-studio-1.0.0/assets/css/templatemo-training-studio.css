@@ -460,7 +460,7 @@ header
 }
 
 .header-area.header-sticky .nav li a.active {
-  color: #ed563b;
+  color: #203864;
 }
 
 @media (max-width: 1200px) {
